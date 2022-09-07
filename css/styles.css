@@ -122,5 +122,6 @@ body{
     .info-section__articles-info > span{
         font-size: 25px;
         line-height: 30px;
+        overflow: hidden;
     }
 }
