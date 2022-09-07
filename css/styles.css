@@ -13,7 +13,7 @@ body{
 }
 .info-container{
     margin: 30px auto;
-    width: 94.6%;
+    width: 90%;
     text-align: center;
 
 }
@@ -64,6 +64,7 @@ body{
 }
 .info-section__articles-info{
     height: 61.5%;
+    overflow: hidden;
 }
 .info-section__articles-info > p{
     font-size: 25px;
